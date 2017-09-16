@@ -8,3 +8,4 @@ Sample project that I want to work on
 
 #Team-members
 * Kennard
+* Ellie
